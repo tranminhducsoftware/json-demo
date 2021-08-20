@@ -1,0 +1,21 @@
+{
+    "totalCount": 2,
+    "data": [
+        {
+            "id": 2,
+            "nAme": "Limehouse",
+            "locations": "{\"index\":3,\"name\":\"Limehouse\",\"lngLat\":\"[[{\\\"lat\\\":51.52198884392169,\\\"lng\\\":-0.04826565480602785},{\\\"lat\\\":51.501262959578035,\\\"lng\\\":-0.058571267004461365},{\\\"lat\\\":51.49100336416198,\\\"lng\\\":-0.025421448939830782},{\\\"lat\\\":51.50617819737357,\\\"lng\\\":0.005323627452149538},{\\\"lat\\\":51.52850379721948,\\\"lng\\\":-0.01734871938438021}]]\",\"layerType\":\"polygon\",\"mRadius\":\"\",\"color\":\"red\",\"fillColor\":\"\",\"fillOpacity\":\"0.1\",\"area\":\"1129.91 ha\"}",
+            "description": "string",
+            "attachName": "string",
+            "attachUrl": "string"
+        },
+        {
+            "id": 3,
+            "nAme": "Hackney",
+            "locations": "{\"index\":4,\"name\":\"Hackney\",\"lngLat\":\"[[{\\\"lat\\\":51.55167238691343,\\\"lng\\\":-0.0619885249817509},{\\\"lat\\\":51.52529983831504,\\\"lng\\\":-0.08620111889080517},{\\\"lat\\\":51.54206472590799,\\\"lng\\\":-0.010300647204237736},{\\\"lat\\\":51.55466102323999,\\\"lng\\\":-0.05031152933765438}]]\",\"layerType\":\"polygon\",\"mRadius\":\"\",\"color\":\"red\",\"fillColor\":\"\",\"fillOpacity\":\"0.1\",\"area\":\"717.71 ha\"}",
+            "description": "string",
+            "attachName": "string",
+            "attachUrl": "string"
+        }
+    ]
+}
