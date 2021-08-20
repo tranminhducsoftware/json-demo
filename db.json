@@ -44,6 +44,30 @@
             "description": "string",
             "attachName": "string",
             "attachUrl": "string"
+        },
+        {
+            "id": 4,
+            "nAme": "Whitechapel",
+            "locations": "{\"index\":2,\"name\":\"Whitechapel\",\"lngLat\":\"[[{\\\"lat\\\":51.51023821132552,\\\"lng\\\":-0.07023394920906424},{\\\"lat\\\":51.53063964456957,\\\"lng\\\":-0.07023394920906424},{\\\"lat\\\":51.53063964456957,\\\"lng\\\":-0.001889180586307493},{\\\"lat\\\":51.51023821132552,\\\"lng\\\":-0.001889180586307493}]]\",\"layerType\":\"rectangle\",\"mRadius\":\"\",\"color\":\"red\",\"fillColor\":\"\",\"fillOpacity\":\"0.1\",\"area\":\"\"}",
+            "description": "string",
+            "attachName": "string",
+            "attachUrl": "string"
+        },
+        {
+            "id": 5,
+            "nAme": "Fairlop",
+            "locations": "{\"index\":3,\"name\":\"Fairlop\",\"lngLat\":\"{\\\"lat\\\":51.604798112087416,\\\"lng\\\":0.06934394386472144}\",\"layerType\":\"circle\",\"mRadius\":\"3596.0586591681244\",\"color\":\"red\",\"fillColor\":\"\",\"fillOpacity\":\"0.1\",\"area\":\"\"}",
+            "description": "string",
+            "attachName": "string",
+            "attachUrl": "string"
+        },
+        {
+            "id": 6,
+            "nAme": "Harribngay",
+            "locations": "{\"index\":4,\"name\":\"Harribngay\",\"lngLat\":\"{\\\"lat\\\":51.589762793194865,\\\"lng\\\":-0.0971865006602113}\",\"layerType\":\"circle\",\"mRadius\":\"1886.4045304615413\",\"color\":\"red\",\"fillColor\":\"\",\"fillOpacity\":\"0.1\",\"area\":\"\"}",
+            "description": "string",
+            "attachName": "string",
+            "attachUrl": "string"
         }
     ]
 }
